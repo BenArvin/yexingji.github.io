@@ -1,4 +1,4 @@
 ---
 date: 2019-01-03 23:51:59
-type: "categories"
+type: "文章"
 ---
