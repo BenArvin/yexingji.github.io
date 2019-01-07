@@ -66,7 +66,7 @@ hexo.extend.helper.register('next_url', function(path, text, options) {
     }
   }
   //MARK: nds
-  if (text == '文章' || text == '话题' || text == '更多') {
+  if (text == '文章' || text == '话题' || text == '更多' || text == '标签') {
     attrs['style'] = 'font-size: 16px; margin-top: 15px;'
   } else {
     attrs['style'] = 'margin-left: 15px;'

@@ -24,11 +24,11 @@
 
       {% set hasSearch = theme.swiftype_key || theme.algolia_search.enable || theme.tinysou_Key || theme.local_search.enable %}
       {% if hasSearch %}
-        <li class="menu-item menu-item-search">
+        <li class="menu-item menu-item-search" style="margin-top: 15px;">
           {% if theme.swiftype_key %}
-            <a href="javascript:;" class="st-search-show-outputs">
+            <a href="javascript:;" class="st-search-show-outputs" style="font-size: 16px;">
           {% elseif theme.local_search.enable || theme.algolia_search.enable %}
-            <a href="javascript:;" class="popup-trigger" style="font-size: 16px; margin-top: 15px;">
+            <a href="javascript:;" class="popup-trigger" style="font-size: 16px;">
           {% endif %}
             {% if theme.menu_settings.icons %}
               <i class="menu-item-icon fa fa-search fa-fw"></i> <br />{#
