@@ -67,6 +67,7 @@ use_seo = hexo-config('seo');
 // Top main padding from header to posts (default 40px).
 .posts-expand {
   padding-top: initial;
+  margin-top: 10px;
 }
 
 // Post navigation items.
@@ -219,6 +220,19 @@ use_seo = hexo-config('seo');
 // < 767px
 // =================================================
 +mobile() {
+
+  .site-meta {
+    width: 80px;
+    height: 80px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .custom-logo-image {
+    width: 80px;
+    height: 80px;
+  }
 
   // Posts in blocks.
   .content-wrap {
