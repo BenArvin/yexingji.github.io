@@ -1071,4 +1071,5 @@ css: css
 js: js
 images: images
 
+# 通用蓝色背景图
 header_bg: /images/common/blue-bg-small.jpg
