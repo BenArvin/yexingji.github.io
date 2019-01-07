@@ -1,0 +1,56 @@
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Writing database to /Users/BenArvin/Desktop/files/yexingji.github.io/db.json","time":"2018-12-31T10:52:52.031Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Hexo version: \u001b[35m3.8.0\u001b[39m","time":"2018-12-31T10:52:52.042Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/files/yexingji.github.io/\u001b[39m","time":"2018-12-31T10:52:52.042Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/files/yexingji.github.io/_config.yml\u001b[39m","time":"2018-12-31T10:52:52.102Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-12-31T10:52:52.127Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-12-31T10:52:52.129Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-12-31T10:52:52.129Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-12-31T10:52:52.131Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-12-31T10:52:52.133Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-12-31T10:52:52.134Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-12-31T10:52:52.141Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-12-31T10:52:52.141Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-12-31T10:52:52.184Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60469,"level":20,"msg":"Database saved","time":"2018-12-31T10:52:52.199Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Writing database to /Users/BenArvin/Desktop/files/yexingji.github.io/db.json","time":"2018-12-31T10:53:24.046Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Hexo version: \u001b[35m3.8.0\u001b[39m","time":"2018-12-31T10:53:24.058Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/files/yexingji.github.io/\u001b[39m","time":"2018-12-31T10:53:24.059Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/files/yexingji.github.io/_config.yml\u001b[39m","time":"2018-12-31T10:53:24.123Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-12-31T10:53:24.146Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-12-31T10:53:24.148Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-12-31T10:53:24.150Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-12-31T10:53:24.151Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-12-31T10:53:24.152Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-12-31T10:53:24.154Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-12-31T10:53:24.161Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-12-31T10:53:24.163Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-12-31T10:53:24.213Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60494,"level":20,"msg":"Database saved","time":"2018-12-31T10:53:24.223Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Writing database to /Users/BenArvin/Desktop/files/yexingji.github.io/db.json","time":"2018-12-31T10:54:12.097Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Hexo version: \u001b[35m3.8.0\u001b[39m","time":"2018-12-31T10:54:12.109Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/files/yexingji.github.io/\u001b[39m","time":"2018-12-31T10:54:12.109Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/files/yexingji.github.io/_config.yml\u001b[39m","time":"2018-12-31T10:54:12.170Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-12-31T10:54:12.198Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-12-31T10:54:12.199Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-12-31T10:54:12.200Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-12-31T10:54:12.202Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-12-31T10:54:12.205Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-12-31T10:54:12.210Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-12-31T10:54:12.216Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-12-31T10:54:12.221Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-12-31T10:54:12.264Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60504,"level":20,"msg":"Database saved","time":"2018-12-31T10:54:12.273Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Writing database to /Users/BenArvin/Desktop/files/yexingji.github.io/db.json","time":"2018-12-31T10:54:44.718Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Hexo version: \u001b[35m3.8.0\u001b[39m","time":"2018-12-31T10:54:44.730Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/files/yexingji.github.io/\u001b[39m","time":"2018-12-31T10:54:44.730Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/files/yexingji.github.io/_config.yml\u001b[39m","time":"2018-12-31T10:54:44.791Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2018-12-31T10:54:44.809Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2018-12-31T10:54:44.810Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2018-12-31T10:54:44.811Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2018-12-31T10:54:44.812Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2018-12-31T10:54:44.814Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2018-12-31T10:54:44.824Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2018-12-31T10:54:44.831Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2018-12-31T10:54:44.832Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2018-12-31T10:54:44.872Z","v":0}
+{"name":"hexo","hostname":"BenArvindeMacBook-Pro.local","pid":60525,"level":20,"msg":"Database saved","time":"2018-12-31T10:54:44.886Z","v":0}
