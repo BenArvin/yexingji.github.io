@@ -45,10 +45,10 @@ cache:
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /images/site-info/favicon-16x16.png
+  medium: /images/site-info/favicon-32x32.png
+  apple_touch_icon: /images/site-info/apple-touch-icon.png
+  safari_pinned_tab: /images/site-info/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -379,7 +379,7 @@ android_chrome_color: "#222"
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: /images/site-info/site-icon-96.jpg
+  image: /images/site-info/site-icon-300x300.jpg
 
 # Code Highlight theme
 # Available values: normal | night | night eighties | night blue | night bright
