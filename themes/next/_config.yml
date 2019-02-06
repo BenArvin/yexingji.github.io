@@ -136,17 +136,17 @@ exturl: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  文章: /分类/文章/
-  "- 文学类": /分类/文章/文学类/
-  "- 人文类": /分类/文章/人文类/
-  "- 杂记": /分类/文章/杂记/
-  话题: /分类/话题/
-  "- 推荐": /分类/话题/推荐/
-  "- 闲谈": /分类/话题/闲谈/
-  更多: /分类/更多/
-  "- 素材文献": /分类/更多/素材文献/
-  "- 关于本站": /分类/更多/关于本站/
-  "- 友情链接": /分类/更多/友情链接/
+  文章: /categories/文章/
+  "- 文学类": /categories/文章/文学类/
+  "- 人文类": /categories/文章/人文类/
+  "- 杂记": /categories/文章/杂记/
+  话题: /categories/话题/
+  "- 推荐": /categories/话题/推荐/
+  "- 闲谈": /categories/话题/闲谈/
+  更多: /categories/更多/
+  "- 素材文献": /categories/更多/素材文献/
+  "- 关于本站": /categories/更多/关于本站/
+  "- 友情链接": /categories/更多/友情链接/
   tags: /tags/ || tags
   # about: /about/ || user
   # archives: /archives/ || archive
