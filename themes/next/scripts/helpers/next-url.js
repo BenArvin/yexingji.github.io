@@ -69,7 +69,7 @@ hexo.extend.helper.register('next_url', function(path, text, options) {
   if (text == '文章' || text == '话题' || text == '更多' || text == '标签') {
     attrs['style'] = 'font-size: 16px; margin-top: 15px;'
   } else {
-    attrs['style'] = 'padding: 0px 0px 0px 35px'
+    attrs['style'] = 'padding: 0px 0px 0px 0px'
   }
   return htmlTag(tag, attrs, text);
 });
