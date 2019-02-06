@@ -68,6 +68,8 @@ hexo.extend.helper.register('next_url', function(path, text, options) {
   //MARK: nds
   if (text == '文章' || text == '话题' || text == '更多' || text == '标签') {
     attrs['style'] = 'font-size: 16px; margin-top: 15px;'
+  } else if (text == '- 文学类' || text == '- 人文类' || text == '- 杂记' || text == '- 推荐' || text == '- 闲谈' || text == '- 素材文献' || text == '- 关于本站' || text == '- 友情链接') {
+    attrs['style'] = 'padding: 0px 0px 0px 35px'
   } else {
     attrs['style'] = 'padding: 0px 0px 0px 0px'
   }
